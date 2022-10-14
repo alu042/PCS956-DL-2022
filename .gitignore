@@ -1,0 +1,12 @@
+*~
+\#*\#
+.\#*
+.DS_Store
+data/
+models/
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+_site/
+.vscode/*
+__MACOSX
+__pycache__

@@ -22,4 +22,4 @@ In Part 3, we look at how practical deep learning is part of _software engineeri
 
 
 ## Browse notebooks online
-You can browse through the notebooks non-interactively using jupyter.org's nbviewer by clicking [here](https://nbviewer.jupyter.org/github/alu042/PCS956-2022/tree/master/).
+You can browse through the notebooks non-interactively using jupyter.org's nbviewer by clicking [here](https://nbviewer.jupyter.org/github/alu042/PCS956-DL-2022/tree/master/).

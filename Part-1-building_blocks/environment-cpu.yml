@@ -1,0 +1,16 @@
+name: pcs956-cpu
+channels:
+    - pytorch
+    - defaults
+dependencies:
+- python>3.6
+- ipykernel
+- pytorch>=1.10
+- torchvision
+- cpuonly
+- matplotlib
+- seaborn
+- scikit-learn
+- pip
+- pip:
+  - pip

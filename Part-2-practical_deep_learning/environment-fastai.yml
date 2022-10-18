@@ -1,0 +1,27 @@
+name: fastai
+channels:
+    - fastai
+    - pytorch
+    - defaults
+dependencies:
+- python>3.6
+- ipykernel
+- ipywidgets
+- jupyter
+- conda-forge::jupyter_contrib_nbextensions
+- cudatoolkit>=11.3
+- pytorch
+- torchvision
+- matplotlib
+- seaborn
+- scikit-learn
+- scikit-image
+- pip
+- pip:
+  - pip
+  - fastai
+  - palettable
+  - fastai_amalgam
+  - matplotlib_venn
+  - opencv-python
+  - albumentations

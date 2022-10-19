@@ -10,3 +10,5 @@ _site/
 .vscode/*
 __MACOSX
 __pycache__
+tmpnb*
+indevnb*

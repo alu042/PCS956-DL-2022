@@ -9,13 +9,14 @@ We'll meet the idea that non-image data can be turned into images that can be fe
 
 _More details TBA_
 
-1. Image classification
+<!--1
+. Image classification
 2. Representing data as images
 3. CNNs as feature extractors
 4. Time-series, ML, and DL
 5. NLP, embeddings, and Transformers
 6. DL engineering
-
+-->
 
 ## Slides
 
@@ -23,7 +24,6 @@ _Slides accompanying Part 2 will be added_
 
 ## Notebooks
 
-_Details TBA_
 
 | Notebook    |      1-Click Notebook      |
 |:----------|------|

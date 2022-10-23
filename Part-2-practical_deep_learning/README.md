@@ -9,6 +9,13 @@ We'll meet the idea that non-image data can be turned into images that can be fe
 
 _More details TBA_
 
+1. Image classification
+2. Representing data as images
+3. CNNs as feature extractors
+4. Time-series, ML, and DL
+5. NLP, embeddings, and Transformers
+6. DL engineering
+
 
 ## Slides
 
@@ -21,7 +28,7 @@ _Details TBA_
 | Notebook    |      1-Click Notebook      |
 |:----------|------|
 |  [2.1.0-asl-Imagenette_image_classification.ipynb](https://nbviewer.org/github/alu042/PCS956-DL-2022/blob/main/Part-2-practical_deep_learning/nbs/2.1.0-asl-Imagenette_image_classification.ipynb) <br>Showcases some modern techniques and ideas for image classification | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alu042/PCS956-DL-2022/blob/main/Part-2-practical_deep_learning/nbs/2.1.0-asl-Imagenette_image_classification.ipynb)<br>[<img src="https://deepnote.com/buttons/launch-in-deepnote-small.svg">](https://deepnote.com/launch?name=PCS956-DL-2022&url=https://github.com/alu042/PCS956-DL-2022/blob/main/Part-2-practical_deep_learning/nbs/2.1.0-asl-Imagenette_image_classification.ipynb)<br>[![kaggle](https://camo.githubusercontent.com/a08ca511178e691ace596a95d334f73cf4ce06e83a5c4a5169b8bb68cac27bef/68747470733a2f2f6b6167676c652e636f6d2f7374617469632f696d616765732f6f70656e2d696e2d6b6167676c652e737667)](https://www.kaggle.com/code/alexanderlundervold/)
-|  _TBA_ | _TBA_
+|  [2.2.0-asl-representations-data_as_images-time_series_and_sound_classification.ipynb](https://nbviewer.org/github/alu042/PCS956-DL-2022/blob/main/Part-2-practical_deep_learning/nbs/2.2.0-asl-representations-data_as_images-time_series_and_sound_classification.ipynb) <br>Introduces the idea of changing input data representations | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alu042/PCS956-DL-2022/blob/main/Part-2-practical_deep_learning/nbs/2.2.0-asl-representations-data_as_images-time_series_and_sound_classification.ipynb)<br>[<img src="https://deepnote.com/buttons/launch-in-deepnote-small.svg">](https://deepnote.com/launch?name=PCS956-DL-2022&url=https://github.com/alu042/PCS956-DL-2022/blob/main/Part-2-practical_deep_learning/nbs/2.2.0-asl-representations-data_as_images-time_series_and_sound_classification.ipynb)<br>[![kaggle](https://camo.githubusercontent.com/a08ca511178e691ace596a95d334f73cf4ce06e83a5c4a5169b8bb68cac27bef/68747470733a2f2f6b6167676c652e636f6d2f7374617469632f696d616765732f6f70656e2d696e2d6b6167676c652e737667)](https://www.kaggle.com/code/alexanderlundervold/)
 |  _TBA_ | _TBA_
 |  _TBA_ | _TBA_
 

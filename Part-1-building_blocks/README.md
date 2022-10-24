@@ -15,7 +15,7 @@ The notebooks of Part 1 accompany the introductory lecture by providing a quick 
 
 ## Slides
 
-_TBA_
+See Canvas for slides and video recording of lectures.
 
 
 ## Notebooks

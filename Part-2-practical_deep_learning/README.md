@@ -1,4 +1,4 @@
-# Part 2: Practical deep learning and deep learning engineering
+# Part 2: A tour of practical deep learning
 
 
 ## Introduction
